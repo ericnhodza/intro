@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @papabearejn
+- 👋 Hi, I’m @ericnhodza
 - 👀 I’m interested in Fullstack Web development and UX/UI
 - 🌱 I’m currently learning Fullstack web development.
 - 💞️ I’m looking to collaborate on web 3 projects and UX design sprints
